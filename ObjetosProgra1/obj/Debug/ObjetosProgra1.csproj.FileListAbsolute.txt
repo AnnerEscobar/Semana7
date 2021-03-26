@@ -1,0 +1,15 @@
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\bin\Debug\PlayerPrueba.exe.config
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\bin\Debug\PlayerPrueba.exe
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\bin\Debug\PlayerPrueba.pdb
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\bin\Debug\Interop.WMPLib.dll
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\ObjetosProgra1.csprojAssemblyReference.cache
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\Interop.WMPLib.dll
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\ObjetosProgra1.csproj.ResolveComReference.cache
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\PlayerPrueba.Properties.Resources.resources
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\ObjetosProgra1.csproj.GenerateResource.cache
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\ObjetosProgra1.csproj.CoreCompileInputs.cache
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\PlayerPrueba.exe
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\PlayerPrueba.pdb
+C:\Users\anner\source\repos\PlayerPrueba\PlayerPrueba\obj\Debug\PlayerPrueba.velocidad.resources
